@@ -1,13 +1,13 @@
 # Main file
 
 # # Import necessary modules
-import utility as util
-import current_song as current_track
-import play_directly as play_music
-import play_based_on_result as play_based_on_search
-import add_song_in_specific_playlist as add_track
-import remove_specific_song_from_playlist as remove_track
-import playlist_search as search_playlist
+import utils.utility as util
+import src.current_song as current_track
+import src.play_directly as play_music
+import src.play_based_on_result as play_based_on_search
+import src.add_song_in_specific_playlist as add_track
+import src.remove_specific_song_from_playlist as remove_track
+import src.playlist_search as search_playlist
 
 
 
