@@ -7,7 +7,7 @@ This repository contains a collection of automation scripts built using Python, 
 - Clone the repository by running the following command in your terminal:
 
 ```
-git clone https://github.com/<your-username>/PyTM.git
+https://github.com/neeraj-2/PyTM.git
 ```
 
 - Navigate to the repository directory:
